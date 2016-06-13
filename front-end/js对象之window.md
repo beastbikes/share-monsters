@@ -54,9 +54,9 @@
 8. `window.document`
 `document`对象应该是最常用的对象之一，表示当前页面的HTML文档，可以用来访问页面内的元素，属性与方法有下。
 部分通用属性与方法具体会在**JS对象之Element**(还没写)一章中提及。
- - head //表示<head>，可以进行DOM操作
- - title //表示<title>的文本内容，可读写
- - body //表示<body>，可以进行DOM操作
+ - head //表示`<head>`，可以进行DOM操作
+ - title //表示`<title>`的文本内容，可读写
+ - body //表示`<body>`，可以进行DOM操作
  - cookie //页面的cookie, 可读写
  - inputEncoding //返回页面编码的字符集
  - activeElement() //返回当前focus的元素，默认为body
